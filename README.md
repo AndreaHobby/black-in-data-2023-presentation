@@ -97,10 +97,6 @@ Comprehensive evaluation beyond accuracy:
 - **Community engagement in data science**
 - **Equity-centered data science practices**
 
-## Files
-
-- `README.md` - This file (project template with detailed guidance)
-- `presentation_slides.pdf` - Full slide deck from Black in Data Week 2023 
 
 ## Recommended Repository Structure
 
